@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Tue Oct 08 00:06:11 IST 2019
+org.eclipse.jst.jee.server\:/binary\:E\:\\springmvc\\Lab73\\WebContent\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\springmvc\\SpringDemoLab\\WebContent\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\springmvc\\Lab73\\WebContent\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\springmvc\\SpringDemoLab\\WebContent\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE.jar
